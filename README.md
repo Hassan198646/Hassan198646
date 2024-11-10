@@ -32,11 +32,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/officials_dac?igsh=cnAzaTdsbzc0Njgy">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" alt="instagram logo" />
-     </a>
-
-  <a href="https://www.linkedin.com/in/aliraza048/">
+  <a href="https://www.linkedin.com/in/hassankhan937045/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
