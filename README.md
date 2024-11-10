@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ali and I'm a Mern Stack Web Developer, from Sheikhupura.</h2>
+<h2 align="left">Hi 👋! My name is Hassan Farooq and I'm a Mern Stack Web Developer, from Sheikhupura.</h2>
 
 ###
 
